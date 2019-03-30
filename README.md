@@ -1,1 +1,1 @@
-# tflite-person-segmentation
+# tflite-person-segmentation-lib
